@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/facebook/static/css/main.247fc737.css",
+    "main.js": "/facebook/static/js/main.627ae1f2.js",
+    "static/media/covid-19.png": "/facebook/static/media/covid-19.0816f9266dac986e9d73.png",
+    "static/media/friends.png": "/facebook/static/media/friends.a5d37faba70043a9186b.png",
+    "static/media/group.png": "/facebook/static/media/group.da31cf347d7102b4938f.png",
+    "index.html": "/facebook/index.html",
+    "main.247fc737.css.map": "/facebook/static/css/main.247fc737.css.map",
+    "main.627ae1f2.js.map": "/facebook/static/js/main.627ae1f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.247fc737.css",
+    "static/js/main.627ae1f2.js"
+  ]
+}
